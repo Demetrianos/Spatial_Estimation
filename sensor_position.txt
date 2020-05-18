@@ -1,0 +1,11 @@
+Sensor	X	Y
+Multisensor_7	31.3	5.0
+Multisensor_21	48.7	24.0
+Multisensor_22	41.8	5.0
+Multisensor_23	13.2	5.0
+Multisensor_24	13.3	31.8
+Multisensor_25	15.5	92.7
+Multisensor_26	15.0	137.0
+Multisensor_27	41.1	120.5
+Multisensor_28	33.3	87.1
+Multisensor_29	37.0	59.0
